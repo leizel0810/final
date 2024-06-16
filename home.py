@@ -59,7 +59,7 @@ You can customize the layout of your app using simple and flexible layout functi
 ### 🔎 Overview""", unsafe_allow_html=True)
 
 
-st.image("pictures\l7.jfif")
+
 
 
 st.markdown("""
