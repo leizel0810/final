@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.header('IMAGE CLASSIFICATION SOURCE CODE 🚪🏠')
+st.header('IMAGE CLASSIFICATION SOURCE CODE')
 st.subheader('This python code is implemented for Streamlit')
 st.code('''      
 import joblib
