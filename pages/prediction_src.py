@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.header('PREDICTION SOURCE CODE 👨‍⚕️')
+st.header('PREDICTION SOURCE CODE ')
 st.subheader('This python code is implemented for Streamlit')
 st.code(''' 
  import streamlit as st
